@@ -1,0 +1,10 @@
+{
+    "result": "Sad",
+    "possiblities": [
+      {
+        "Sad": 0.5,
+        "Happy": 0.3,
+        "Worry": 0.2
+      }
+    ]
+  }
